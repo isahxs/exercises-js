@@ -77,7 +77,7 @@ Considere:
 
 Verifique se a consulta pode ser agendada */
 
-// Ddos fornecidos
+// Dados fornecidos
 
 const horarioDisponivel = "true"
 const pacienteCadastrado = "false"
